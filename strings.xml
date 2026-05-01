@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jihad Host</string>
+
+    <string name="header_title">Jihad Host</string>
+
+    <string name="loading_text">Loading Hosting...</string>
+
+    <string name="website_url">https://wispbyte.com</string>
+
+    <string name="open_site">Open Website</string>
+
+    <string name="back_text">Back</string>
+
+</resources>
